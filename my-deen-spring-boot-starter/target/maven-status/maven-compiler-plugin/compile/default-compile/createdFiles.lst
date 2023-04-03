@@ -1,0 +1,6 @@
+com\my\deen\advice\MyResponseBodyAdvice.class
+com\my\ApplicationStartup.class
+com\my\deen\autoconfig\EncryptAutoConfiguration.class
+com\my\deen\advice\EnableMyDeEnConfiguration.class
+com\my\deen\advice\EncryptProperties.class
+com\my\deen\advice\MyRequestBodyAdvice.class
